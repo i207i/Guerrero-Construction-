@@ -348,6 +348,7 @@ a.active,a:hover {
       font-size: 58px;
       padding-left: 20px;
       color: orangered;
+      margin: auto;
   }
 
   nav ul li a {
