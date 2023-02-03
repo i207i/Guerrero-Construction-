@@ -250,7 +250,7 @@ a.active,a:hover {
   display: block;
   margin: auto;
   text-decoration: none;
-  font-size: small;
+  font-size: 12px;
 }
 
 /*-------top-small-header-end------*/
