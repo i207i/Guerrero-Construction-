@@ -290,6 +290,11 @@ nav {
   
 }
 /*-----label----*/
+
+.logo-indian {
+  display: small;
+}
+
 label.logo {
   color: black;
   font-size: 65px;
