@@ -372,7 +372,7 @@ a.active,a:hover {
   }
 
   .logo-indian {
-    image-size: small;
+    width: 20px;
 }
 
 @media (max-width: 658px) {
