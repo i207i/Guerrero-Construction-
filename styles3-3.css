@@ -292,7 +292,8 @@ nav {
 /*-----label----*/
 
 .logo-indian {
-  display: small;
+  width: 20px;
+  height: 20px;
 }
 
 label.logo {
@@ -371,9 +372,6 @@ a.active,a:hover {
     margin-left: 40px;
   }
 
-  .logo-indian {
-    width: 20px;
-}
 
 @media (max-width: 658px) {
       .checkbtn {
