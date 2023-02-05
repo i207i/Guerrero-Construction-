@@ -371,7 +371,8 @@ a.active,a:hover {
     margin-left: 40px;
   }
 
-  
+  .logo-indian {
+    image-size: small;
 }
 
 @media (max-width: 658px) {
