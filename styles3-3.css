@@ -67,7 +67,7 @@ a:not([class]) {
 img,
 picture {
   max-width: 100%;
-  display: block;
+  /*display: block;*/
 }
 
 /* Inherit fonts for inputs and buttons */
@@ -348,7 +348,7 @@ a.active,a:hover {
 }
 
 
-@media (max-width: 653px) {
+@media (max-width: 460px) {
   label.logo {
       font-size: 58px;
       padding-left: 20px;
@@ -573,7 +573,7 @@ a:not([class]) {
 img,
 picture {
   max-width: 100%;
-  display: block;
+  /*display: block;*/
 }
 
 /* Inherit fonts for inputs and buttons */
