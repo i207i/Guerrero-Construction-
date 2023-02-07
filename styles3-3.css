@@ -264,7 +264,6 @@ h3 {
 aside p {
   font-family: sans-serif;
 }
-/*----------------------*/
 
 #sub-top-small-header {
   background: lightsalmon;
@@ -295,6 +294,7 @@ nav {
 .logo-indian {
   width: 90px;
   height: 90px;
+  margin-top: 30px;
 }
 
 label.logo {
