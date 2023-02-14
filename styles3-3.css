@@ -353,7 +353,7 @@ a.active,a:hover {
 @media (max-width: 450px) {
   label.logo {
       font-size: 58px;
-      /*padding-left: 20px;*/
+      padding-left: 20px;
       color: orangered;
       margin-bottom: 30px;
   }
