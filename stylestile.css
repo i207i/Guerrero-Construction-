@@ -263,7 +263,7 @@ a.active,a:hover {
 
 @media (max-width: 653px) {
   label.logo {
-      
+      font-size: 25px;
       padding-left: 20px;
       color: orangered;
       line-height: 0;
